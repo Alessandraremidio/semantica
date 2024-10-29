@@ -1,0 +1,22 @@
+body{
+    background-color:darkcyan ;
+    }
+    header{
+        background-color: blueviolet;
+        color: white;
+    }
+    #nav ul{
+    padding: 20px;
+    text-align: center;        
+    }
+        
+    #nav li{
+        color: white;
+        background-color: white;
+        display: inline;
+        margin-right: 20px;
+        font-size: 20px;
+        padding: 5px;
+        border-radius: 10px;
+    }
+    
